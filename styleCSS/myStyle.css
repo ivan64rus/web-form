@@ -1,0 +1,71 @@
+.h1{
+    color: #ffffff;
+     font-size: 40px;
+     padding: 10px 220px;
+}
+
+.p{
+    color: #ffffff;
+    font-size: 25px;
+    margin-left: 90px;
+}
+
+.body-form{
+    margin: 0 auto;
+    width: 600px;
+    padding: 1em;
+    border: 1px solid #CCC;
+   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBSb7IrJlM14_ozH5ypH6-MICs744lvLsTFN2weWAP3eOPOVfJ6uUnTSOaB0DxbwVzkw&usqp=CAU);
+ /* filter: blur(5px);*/
+}
+
+body{
+    background: url("https://img3.goodfon.ru/wallpaper/nbig/6/cc/zubya-metall-tehno.jpg")
+}
+
+.li-1{
+    font-size: 25px;
+    color: #bcdede;
+}
+
+.inscription{
+    font-size: 20px;
+    
+}
+
+input{
+   margin-left: 55px;
+   margin-top: 10px;
+}
+
+label{
+    display: inline-block;
+    width: 100px;
+    margin-left: 55px;
+}
+.string{
+    display: inline;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+ul{
+    list-style: none;
+}
+
+.checkbox{
+    display: inline;
+    font-size: 15px;  
+}
+
+select{
+    margin-left: 55px; 
+}
+
+.screen{
+    margin-left: 160px; 
+}
+
+.tr{
+    margin-left: 160px;
+}

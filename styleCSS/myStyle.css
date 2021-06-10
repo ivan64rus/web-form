@@ -15,17 +15,18 @@
     width: 600px;
     padding: 1em;
     border: 1px solid #CCC;
-   background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgBSb7IrJlM14_ozH5ypH6-MICs744lvLsTFN2weWAP3eOPOVfJ6uUnTSOaB0DxbwVzkw&usqp=CAU);
+   background: url(https://png.pngtree.com/thumb_back/fw800/back_pic/03/58/81/5057a32b923a673.jpg);
  /* filter: blur(5px);*/
 }
 
 body{
-    background: url("https://img3.goodfon.ru/wallpaper/nbig/6/cc/zubya-metall-tehno.jpg")
+    background: url("http://www.fonstola.ru/pic/201111/1920x1080/fonstola.ru-55696.jpg")
 }
 
 .li-1{
     font-size: 25px;
-    color: #bcdede;
+    color: #000000;
+    font-weight:bold ;
 }
 
 .inscription{
@@ -46,7 +47,7 @@ label{
 .string{
     display: inline;
     font-size: 20px;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 
 ul{
@@ -68,4 +69,18 @@ select{
 
 .tr{
     margin-left: 160px;
+}
+
+.question{
+    margin-top: 10px;
+    font-weight: bold
+}
+label.required:after
+{
+    color: red;
+    content: " * ";
+}
+.star
+{
+    color: red;
 }
